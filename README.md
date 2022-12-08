@@ -16,13 +16,13 @@
 
 - 🔭 I’m currently working as Mobile Application develpoment Intern for **Beazy**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development** and **Machine Learning**
 
 - 🤝All my project available at [Github](https://github.com/thekuldeep07)
 
 - 💬 Ask me about **Android, Kotlin , Java , Python**
 
-- 📫 How to reach me **thekuldeep2611@gmail.com**
+- 📫 How to reach me **kgangwar0726@gmail.com**
 
 ---
 
