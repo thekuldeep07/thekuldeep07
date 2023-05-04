@@ -14,7 +14,7 @@
 
 <img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
-- 🔭 I’m currently working as Mobile Application develpoment Intern for **Beazy**
+- 🔭 I’m currently working as Mobile Application develpoment Intern for **Salarybox**
 
 - 🌱 I’m currently learning **Android Development** and **Machine Learning**
 
